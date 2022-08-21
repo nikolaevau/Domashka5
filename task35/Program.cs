@@ -9,7 +9,7 @@ int [] array = new int [123];
 
 Random rand = new Random();
 
-int sum = 0; //положительные элементы
+int sum = 0;
 
 
 for (int i=0; i < array.Length; i++)
